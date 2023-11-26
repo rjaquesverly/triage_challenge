@@ -8,7 +8,7 @@ Ensure you have Python installed on your system. The code is tested with Python 
 
 ## Installation
 
-1. **Clone the Repository:**
+1. ### Clone the Repository:
 
    First, clone the repository to your local machine:
    
@@ -16,18 +16,18 @@ Ensure you have Python installed on your system. The code is tested with Python 
    git clone https://github.com/rjaquesverly/triage_challenge.git
    ```
 
-2. **Access the triage_challenge folder in your computer:**
+2. ### Access the triage_challenge folder in your computer:
 
    ```bash
    cd triage_challenge
    ```
 
-3. **Install Required Packages:
+3. ### Install Required Packages:
 
    ```bash
    pip install numpy sklearn tensorflow
    ```
-4. **Running the Script
+4. ### Running the Script
    ```bash
    python triage_challenge.py
    ```
