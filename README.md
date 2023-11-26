@@ -4,7 +4,7 @@ This guide explains how to set up and run the `triage_challenge.py` script.
 
 ## Prerequisites
 
-Ensure you have Python installed on your system. The code is tested with Python 3.8.
+Ensure you have Python installed on your system. The code is tested with Python 3.9.17
 
 ## Installation
 
@@ -31,4 +31,7 @@ Ensure you have Python installed on your system. The code is tested with Python 
    ```bash
    python triage_challenge.py
    ```
-
+## Additional Notes
+Ensure that the data files (e.g., data/aortaP_train_data.csv) are present in the specified directories.
+The script uses TensorFlow and may require a significant amount of RAM and a powerful CPU or GPU.
+The output will be saved in a JSON format as specified in the script.
