@@ -13,5 +13,22 @@ Ensure you have Python installed on your system. The code is tested with Python 
    First, clone the repository to your local machine:
    
    ```bash
-   git clone [https://github.com/your-repository/triage_challenge.git](https://github.com/rjaquesverly/triage_challenge.git)https://github.com/rjaquesverly/triage_challenge.git
+   git clone https://github.com/rjaquesverly/triage_challenge.git
+   ```
+
+2. **Access the triage_challenge folder in your computer:**
+
+   ```bash
    cd triage_challenge
+   ```
+
+3. **Install Required Packages:
+
+   ```bash
+   pip install numpy sklearn tensorflow
+   ```
+4. **Running the Script
+   ```bash
+   python triage_challenge.py
+   ```
+
