@@ -1,6 +1,4 @@
-# Triage Challenge Script - Installation and Execution Guide
-
-Team name : MGB-Harvard
+# Triage Challenge Script - Team name : MGB-Harvard
 
 This guide explains how to set up and run the `triage_challenge.py` script.
 
