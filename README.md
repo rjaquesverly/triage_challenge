@@ -1,4 +1,4 @@
-# Triage Challenge Installation and Execution Guide
+# Triage Challenge Script - Installation and Execution Guide
 
 This guide explains how to set up and run the `triage_challenge.py` script.
 
