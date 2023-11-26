@@ -32,6 +32,8 @@ Ensure you have Python installed on your system. The code is tested with Python 
    python triage_challenge.py
    ```
 ## Additional Notes
-Ensure that the data files (e.g., data/aortaP_train_data.csv) are present in the specified directories.
+Ensure that the data files csv files are inside the data folder.
 The script uses TensorFlow and may require a significant amount of RAM and a powerful CPU or GPU.
 The output will be saved in a JSON format as specified in the script.
+
+
