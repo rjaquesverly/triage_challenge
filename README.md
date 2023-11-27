@@ -4,7 +4,6 @@ This guide explains how to set up and run the `triage_challenge.py` script.
 
 ## Prerequisites
 Ensure you have Python installed on your system.
-The code is tested with Python 3.9.17.
 You can download the last version of python in https://www.python.org/
 
 ## Installation
