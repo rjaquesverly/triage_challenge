@@ -4,7 +4,8 @@ This guide explains how to set up and run the `triage_challenge.py` script.
 
 ## Prerequisites
 Ensure you have Python installed on your system.
-You can download the last version of python in https://www.python.org/
+This code and model was developed using Python 3.9.17.
+You can download the Python 3.9.17. using this link: https://www.python.org/ftp/python/3.12.0/python-3.12.0b1-amd64.exe
 
 ## Installation
 
@@ -25,7 +26,8 @@ You can download the last version of python in https://www.python.org/
 3. ### Install Required Packages:
 
    ```bash
-   pip install numpy sklearn tensorflow
+   python -m pip install --upgrade pip
+   pip install numpy scikit-learn tensorflow
    ```
 4. ### Running the Script
    ```bash
