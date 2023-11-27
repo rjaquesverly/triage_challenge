@@ -26,7 +26,6 @@ You can download the Python 3.10.11. using this link: https://www.python.org/ftp
 3. ### Install Required Packages:
 
    ```bash
-   python -m pip install --upgrade pip
    pip install numpy scikit-learn tensorflow
    ```
 4. ### Running the Script
