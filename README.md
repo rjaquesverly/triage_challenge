@@ -4,14 +4,14 @@ This guide explains how to set up and run the `triage_challenge.py` script.
 
 ## Prerequisites
 Ensure you have Python installed on your system.
-This code and model was developed using Python 3.9.17.
-You can download the Python 3.9.17. using this link: https://www.python.org/ftp/python/3.12.0/python-3.12.0b1-amd64.exe
+This code and model was developed using Python 3.10.11.
+You can download the Python 3.10.11. using this link: https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe
 
 ## Installation
 
 1. ### Clone the Repository:
 
-   First, clone the repository to your local machine:
+    First, download or clone the repository on your local computer:
    
    ```bash
    git clone https://github.com/rjaquesverly/triage_challenge.git
